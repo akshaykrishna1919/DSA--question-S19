@@ -1,4 +1,4 @@
-package com.lxi.DsaQues;
+   package com.lxi.DsaQues;
 
 public class ReverseString {
 
